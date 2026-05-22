@@ -1,2 +1,2 @@
 # adbras_relatorio_igrejas
-O proposito desse relatório é analise da consultoria em cada uma das igrejas selecionadas.
+Esse dashboard tem por objetivo apresentação a avaliação feita pelos dirigentes de cada congregação nas visitas recomendadas pelo Bispo.
